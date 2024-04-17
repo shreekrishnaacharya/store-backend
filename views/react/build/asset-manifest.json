@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b097173.css",
+    "main.js": "/static/js/main.9a114d29.js",
+    "static/js/856.19c36dd3.chunk.js": "/static/js/856.19c36dd3.chunk.js",
+    "static/js/718.e9cc0e5c.chunk.js": "/static/js/718.e9cc0e5c.chunk.js",
+    "static/js/775.c01031b6.chunk.js": "/static/js/775.c01031b6.chunk.js",
+    "static/js/427.91dca281.chunk.js": "/static/js/427.91dca281.chunk.js",
+    "static/js/572.290e58c9.chunk.js": "/static/js/572.290e58c9.chunk.js",
+    "static/js/976.1682f8bf.chunk.js": "/static/js/976.1682f8bf.chunk.js",
+    "static/js/843.ec5b0b14.chunk.js": "/static/js/843.ec5b0b14.chunk.js",
+    "static/js/866.1a6ee5e2.chunk.js": "/static/js/866.1a6ee5e2.chunk.js",
+    "static/js/468.381a1feb.chunk.js": "/static/js/468.381a1feb.chunk.js",
+    "static/js/540.6f661f19.chunk.js": "/static/js/540.6f661f19.chunk.js",
+    "static/js/818.ea83723c.chunk.js": "/static/js/818.ea83723c.chunk.js",
+    "static/js/849.1d5a314e.chunk.js": "/static/js/849.1d5a314e.chunk.js",
+    "static/js/744.21bd342e.chunk.js": "/static/js/744.21bd342e.chunk.js",
+    "static/js/557.b2b4301a.chunk.js": "/static/js/557.b2b4301a.chunk.js",
+    "static/media/greentree.jpg": "/static/media/greentree.42b03d5c3813288ba1fb.jpg",
+    "static/media/home-decor-3.jpg": "/static/media/home-decor-3.74d13fcbd3c631fc7908.jpg",
+    "static/media/home-decor-2.jpg": "/static/media/home-decor-2.b4e5397c9846645ba275.jpg",
+    "static/media/home-decor-1.jpg": "/static/media/home-decor-1.05e218fd495ccc65c99d.jpg",
+    "static/media/waterdrop.jpg": "/static/media/waterdrop.cfcb69c642fbfa486832.jpg",
+    "static/media/colormix.jpg": "/static/media/colormix.81760a4cb03e78d17fe7.jpg",
+    "static/media/curved14.jpg": "/static/media/curved14.12c9ea54425c4f1bc1d7.jpg",
+    "static/media/marie.jpg": "/static/media/marie.1c6828424a074f143c2d.jpg",
+    "static/media/curved-6.jpg": "/static/media/curved-6.71ee1d1cc8196ed2126b.jpg",
+    "static/media/team-1.jpg": "/static/media/team-1.c821a2730a9c8e3f68eb.jpg",
+    "static/media/kal-visuals-square.jpg": "/static/media/kal-visuals-square.22829a59e2c6afb94b7a.jpg",
+    "static/media/user.png": "/static/media/user.7311609872e96fc3f706.png",
+    "static/media/team-3.jpg": "/static/media/team-3.b75146da5bfdf9d8ae61.jpg",
+    "static/media/ivana-square.jpg": "/static/media/ivana-square.b04026bd1ae5cf0d8a68.jpg",
+    "static/media/team-4.jpg": "/static/media/team-4.a1e1c29f1b839ddae393.jpg",
+    "static/media/team-2.jpg": "/static/media/team-2.e725aef8c892cb21f262.jpg",
+    "static/media/logo-spotify.svg": "/static/media/logo-spotify.e83cf56c9d99a1fdf59e8deb58bbe470.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3b097173.css",
+    "static/js/main.9a114d29.js"
+  ]
+}
